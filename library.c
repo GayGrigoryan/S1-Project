@@ -141,7 +141,6 @@ void searchForBook(const char *name, const char *author, const char *user)
             }
             else
             {
-                
                 printf("Sorry, at this moment we don't have that book in our library");
             }
         }
