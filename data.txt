@@ -1,6 +1,6 @@
 To Kill a Mockingbird,Harper Lee,5
-1984,G,8
-The Great Gatsby,F. Scott Fitzgerald,10
+1984,George Orwell,7
+The Great Gatsby,F.Scott Fitzgerald,10
 The Catcher in the Rye,J.D. Salinger,10
 Brave New World,Aldous Huxley,10
 The Lord of the Rings,J.R.R. Tolkien,10
@@ -18,3 +18,33 @@ The Road,Cormac McCarthy,10
 The Girl with the Dragon Tattoo,Stieg Larsson,10
 The Hitchhiker's Guide to the Galaxy,Douglas Adams,10
 One Hundred Years of Solitude,Gabriel García Márquez,10
+The Handmaid's Tale,Margaret Atwood,6
+Moby-Dick,Herman Melville,8
+The Odyssey,Homer,0
+A Tale of Two Cities,Charles Dickens,8
+Frankenstein, Mary Shelley, 8
+The Scarlet Letter,Nathaniel Hawthorne,9
+Great Expectations,Charles Dickens,8
+Wuthering Heights,Emily Brontë,9
+The Picture of Dorian Gray,Oscar Wilde,8
+The Count of Monte Cristo,Alexandre Dumas,9
+The Grapes of Wrath,John Steinbeck,9
+Anna Karenina,Leo Tolstoy,9
+The Brothers Karamazov,Fyodor Dostoevsky,9
+Crime and Punishment,Fyodor Dostoevsky,9
+Heart of Darkness,Joseph Conrad,8
+One Flew Over the Cuckoo's Nest,Ken Kesey,9
+The Outsiders,S.E. Hinton,8
+A Clockwork Orange,Anthony Burgess,8
+The Gruffalo,Julia Donaldson,7
+Charlotte's Web,E.B. White,7
+The Little Prince,Antoine de Saint-Exupéry,7
+Fahrenheit 451,Ray Bradbury,8
+The Book Thief,Markus Zusak,9
+Gone with the Wind,Margaret Mitchell,9
+The Kite Runner,Khaled Hosseini,9
+Siddhartha,Hermann Hesse,8
+The Secret Garden,Frances Hodgson Burnett,8
+The Wind in the Willows,Kenneth Grahame,8
+Lord of the Flies,William Golding,8
+The Jungle Book,Rudyard Kipling,8
